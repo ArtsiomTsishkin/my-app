@@ -1,0 +1,12 @@
+
+.item {
+
+    color: brown;
+    font-style: italic;
+    font-size: 20px;
+
+}
+.item img {
+    width: 50px;
+    border-radius: 30px;
+}

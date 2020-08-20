@@ -1,0 +1,15 @@
+.userPfoto {
+    width: 100px;
+}
+
+.selectedPage{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+
+}
+/*.selectedPageCenter{*/
+/*     display: flex;*/
+/*     align-items: center;*/
+/*     justify-content: center;*/
+/* }*/

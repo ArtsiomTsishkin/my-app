@@ -1,0 +1,31 @@
+.nav {
+    grid-area: n;
+    background-color: crimson;
+    padding: 20px;
+    font-size: 25px;
+
+}
+
+.item a {
+    color: powderblue;
+    text-decoration: none;
+
+}
+
+.item a.activeLinc {
+    color: black;
+}
+
+.navbar {
+    border: 1px solid grey;
+    display: block;
+    margin: auto;
+}
+.center {
+    border: 1px solid grey;
+    display: block;
+    margin: auto;
+}
+.activeLinc_1 {
+    margin: 100px;
+}
